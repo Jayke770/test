@@ -2,31 +2,31 @@
     {
         "id": 99,
         "title": "T.E.A.M MLBB",
-        "url": "test.com"
+        "url": "https://t.me/TEAM_MobileLegends"
     },
     {
         "id": 100,
         "title": "T.E.A.M CODM",
-        "url": "test2.com"
+        "url": "https://t.me/TEAM_CODMobile"
     },
     {
         "id": 101,
         "title": "T.E.A.M LOL",
-        "url": "test3.com"
+        "url": "https://t.me/TEAM_LeagueOfLegends"
     },
     {
         "id": 102,
         "title": "T.E.A.M NBA",
-        "url": "test3.com"
+        "url": "https://t.me/TEAM_NBA2K"
     },
     {
         "id": 103,
         "title": "T.E.A.M DOTA",
-        "url": "test3.com"
+        "url": "https://t.me/TEAM_DOTA"
     },
     {
         "id": 104,
-        "title": "T.E.A.M PUBG",
-        "url": "test3.com"
-    },
+        "title": "T.E.A.M PUBGM",
+        "url": "https://t.me/TEAMDAO_PUBGM"
+    }
 ]
